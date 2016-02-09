@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecaclas72lemagoog_0010.png"; bbox 0 0 2662 4814; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 1624 1124 1799">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 1624 1124 1799">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 1624 1124 1799; baseline 0.006 -24"><span class='ocrx_word' id='word_1_1' title='bbox 118 1626 204 1777; x_wconf 90' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 255 1625 546 1799; x_wconf 86' lang='lat' dir='ltr'>LIVH</span> <span class='ocrx_word' id='word_1_3' title='bbox 598 1624 1124 1781; x_wconf 85' lang='lat' dir='ltr'><strong>PATAVINI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 289 1961 957 2330">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 289 1961 957 2330">
+     <span class='ocr_line' id='line_1_2' title="bbox 420 1961 922 2097; baseline 0 -64"><span class='ocrx_word' id='word_1_4' title='bbox 420 1961 455 2051; x_wconf 90' lang='lat' dir='ltr'><strong>Q</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 461 1962 822 2034; x_wconf 79' lang='lat' dir='ltr'><strong>TTTTTTTTT</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 907 2084 922 2097; x_wconf 29' lang='grc' dir='ltr'>δ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 289 2200 957 2330; baseline -0.003 -4"><span class='ocrx_word' id='word_1_7' title='bbox 289 2200 606 2330; x_wconf 87' lang='grc' dir='ltr'><strong>ΟΜΝΙΑ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 641 2200 957 2326; x_wconf 88' lang='lat' dir='ltr'><strong>OPERA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1336 4814">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1336 4814">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1336 4814; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1336 4814; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
